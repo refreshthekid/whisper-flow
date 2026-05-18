@@ -1,0 +1,25 @@
+# Runtime artifacts
+.whisper_flow.lock
+launch_debug.log
+status.log
+probe.log
+*.log
+
+# Auto-generated at install time (machine-specific path)
+run_silent.vbs
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
